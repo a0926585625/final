@@ -1,0 +1,13 @@
+c:\ugytu\56\56\bin\Debug\56.exe.config
+c:\ugytu\56\56\bin\Debug\56.exe
+c:\ugytu\56\56\bin\Debug\56.pdb
+c:\ugytu\56\56\obj\Debug\MainWindow.g.cs
+c:\ugytu\56\56\obj\Debug\App.g.cs
+c:\ugytu\56\56\obj\Debug\56_MarkupCompile.cache
+c:\ugytu\56\56\obj\Debug\56_MarkupCompile.lref
+c:\ugytu\56\56\obj\Debug\MainWindow.baml
+c:\ugytu\56\56\obj\Debug\56.g.resources
+c:\ugytu\56\56\obj\Debug\_56.Properties.Resources.resources
+c:\ugytu\56\56\obj\Debug\56.csproj.GenerateResource.Cache
+c:\ugytu\56\56\obj\Debug\56.exe
+c:\ugytu\56\56\obj\Debug\56.pdb
